@@ -1,0 +1,54 @@
+{
+    "score": 0,
+    "enemyList": [{
+        "xposition": 1,
+        "yposition": 1,
+        "ydir": 1,
+        "type": 3,
+        "xdir": 1
+    }],
+    "unfriendlyBulletList": [
+        {
+            "damage": 1,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "xposition": 0,
+            "yposition": 0,
+            "ydir": -1,
+            "xdir": -1
+        },
+        {
+            "damage": 1,
+            "colorR": 255,
+            "colorG": 175,
+            "colorB": 175,
+            "xposition": 29,
+            "yposition": 29,
+            "ydir": -1,
+            "xdir": -1
+        }
+    ],
+    "time": 0,
+    "gameOver": false,
+    "friendlyBulletList": [{
+        "damage": 1,
+        "colorR": 0,
+        "colorG": 0,
+        "colorB": 255,
+        "xposition": 29,
+        "yposition": 29,
+        "ydir": -1,
+        "xdir": -1
+    }],
+    "player": {
+        "damage": 1,
+        "projectileNumber": 2,
+        "xposition": 3,
+        "yposition": 6,
+        "health": 10,
+        "ydir": 5,
+        "xdir": 5,
+        "speed": 3
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "score": 0,
+    "enemyList": [],
+    "unfriendlyBulletList": [],
+    "time": 0,
+    "gameOver": false,
+    "friendlyBulletList": [],
+    "player": {
+        "damage": 1,
+        "projectileNumber": 2,
+        "xposition": 800,
+        "yposition": 450,
+        "health": 10,
+        "ydir": 0,
+        "xdir": 0,
+        "speed": 1
+    }
+}
